@@ -1,6 +1,6 @@
 ![:ItIsCattail](468101523_1097541092008275_2221627698317642975_n.gif)
 
-![:Yeti_Boy](https://gifdb.com/gif/pvz-zombie-yeti-variant-5s855hutrupckrcb.html?embed=true)
+![:Yeti_Boy](https://media.gifdb.com/pvz-zombie-yeti-variant-5s855hutrupckrcb.gif)
 
 # Brainzzz...
 
