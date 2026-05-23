@@ -4,7 +4,7 @@
   <img src="468101523_1097541092008275_2221627698317642975_n.gif" width="220" alt="Brainzzz Cat" />
 </div>
 
-<h3 align="center">💤 Brainzzz... but still shipping code.</h3>
+<h3 align="center">🧠💤 Brainzzz... but still shipping code.</h3>
 
 <p align="center">
   Backend Developer • Software Engineering Student • Tech Explorer
@@ -83,55 +83,115 @@ Learning:
 
 # 📌 Featured Projects
 
-## 🔹 Backend Authentication System
+## 🔹 JChiiki
 
-> JWT authentication, refresh token rotation, RBAC authorization, PostgreSQL + Prisma.
+> Android application for learning Japanese vocabulary and language practice.
 
-### Tech
+### Highlights
 
-`Node.js` `Express.js` `Prisma` `PostgreSQL` `JWT`
-
----
-
-## 🔹 Async Email Service
-
-> Queue-based email processing service using RabbitMQ with retry & fallback mechanism.
+* Mobile-first learning experience
+* Interactive Japanese learning workflow
+* Android-native implementation
 
 ### Tech
 
-`RabbitMQ` `Node.js` `Docker`
+`Java` `HTML` `Android`
 
 ---
 
-## 🔹 Blog REST API
+## 🔹 PerfumeStore
 
-> RESTful API with pagination, filtering, role management, and clean architecture.
+> Modern perfume e-commerce platform upgraded from a previous legacy perfume store project using ASP.NET Core MVC.
+
+### Highlights
+
+* Product management system
+* Storefront UI redesign
+* SQL Server integration
+* MVC architecture implementation
 
 ### Tech
 
-`Express.js` `Prisma` `PostgreSQL`
+`ASP.NET Core MVC` `C#` `TSQL` `JavaScript` `HTML/CSS`
 
 ---
 
-## 🔹 Data Analysis / ML Playground
+## 🔹 GrinVege Mobile App
 
-> Small experiments with datasets, data visualization, and machine learning models.
+> Flutter mobile application focused on green commerce and clean food products with secure authentication and clean architecture.
+
+### Highlights
+
+* Firebase OTP authentication
+* Secure token storage with silent refresh flow
+* Clean Architecture implementation
+* Backend integration with RBAC system
+* Modern mobile UX with feedback systems
 
 ### Tech
 
-`Python` `Pandas` `Scikit-learn`
+`Flutter` `Dart` `Firebase Auth` `Dio` `Secure Storage` `Node.js`
 
 ---
 
-# 📈 GitHub Stats
+## 🔹 GrinVege RESTful API
 
-<div align="center">
+> High-performance RESTful API built with NestJS and Oracle Database for enterprise-grade store management.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+### Highlights
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+* JWT + RBAC authorization
+* Oracle PL/SQL procedure integration
+* Redis caching & session management
+* Cloudinary image management
+* Hybrid Clean Architecture + Layered Architecture
+* Session context security for auditing
 
-</div>
+### Tech
+
+`NestJS` `Oracle Database` `Redis` `Cloudinary` `JWT`
+
+---
+
+## 🔹 AlphaZerox Client
+
+> Premium real-time chat application inspired by modern messaging platforms with advanced UX synchronization.
+
+### Highlights
+
+* Hybrid HTTP + Socket message flow
+* Advanced emoji & reaction system
+* Real-time online presence & sidebar sync
+* Zero-latency UI updates using TanStack Query
+* Cinematic onboarding experience
+* Global socket orchestration
+
+### Tech
+
+`React` `TypeScript` `Socket.io` `Zustand` `TanStack Query` `Vite`
+
+---
+
+## 🔹 AlphaZerox Backend
+
+> Enterprise-grade real-time chat backend optimized for scalability, security, and distributed architecture.
+
+### Highlights
+
+* Modular Monolith Architecture
+* PostgreSQL + MongoDB hybrid persistence
+* AES-256-GCM encrypted searchable messaging
+* RabbitMQ background job processing
+* ElasticSearch full-text search
+* RBAC & granular permission system
+* Redis-based rate limiting
+* Cloudflare R2 & Cloudinary hybrid storage
+* GCP-ready CI/CD deployment pipeline
+* 55+ automated unit tests
+
+### Tech
+
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `RabbitMQ` `Redis` `ElasticSearch` `Docker` `GCP`
 
 ---
 
@@ -149,15 +209,15 @@ Learning:
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/StreetParkourZombie">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-kh%C3%B4i-nguy%C3%AAn-61b5b0342">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nguyentran20051807@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
